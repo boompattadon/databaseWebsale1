@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30309.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "KawinStore", "KawinStore\KawinStore.vbproj", "{A782D1A0-7089-4812-A748-EDFA2AC09C10}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F98F99DF-10A2-4599-89DA-1F9BDE58AD9B}"
+	ProjectSection(SolutionItems) = preProject
+		StyleSheet1.css = StyleSheet1.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A782D1A0-7089-4812-A748-EDFA2AC09C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A782D1A0-7089-4812-A748-EDFA2AC09C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A782D1A0-7089-4812-A748-EDFA2AC09C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A782D1A0-7089-4812-A748-EDFA2AC09C10}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E197675-ED1F-4514-BB99-D4B1FE7C565B}
+	EndGlobalSection
+EndGlobal
